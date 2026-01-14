@@ -1,0 +1,298 @@
+TENANTSHIELD - PROVIDER HANDOFF TEMPLATE
+Email to Send Leads to Paralegals/Tenant Advocates
+
+========================================
+PURPOSE
+========================================
+
+This template is sent to your partner paralegals/tenant advocates when a qualified lead comes through the system.
+
+It should:
+1. Summarize the user's case clearly
+2. Include AI assessment + case strength
+3. Set expectations about what the user knows
+4. Remind provider of the deal terms
+5. Make it easy for provider to take action
+
+========================================
+EMAIL TEMPLATE
+========================================
+
+From: [Your Name], TenantShield
+To: [Paralegal Email]
+Subject: New Tenant Lead (Pre-Screened): [User Name] – [Case Type]
+
+---
+
+Hi [Provider Name],
+
+New lead for you from TenantShield. Here's what you need to know:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEAD DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Name: [User Full Name]
+Phone: [User Phone Number]
+Email: [User Email Address]
+Location: [City, CA]
+
+Case Type: [Security Deposit Dispute / Eviction Defense / Habitability / Rent Increase / Other]
+
+Situation (in their words):
+"[User's original form submission - raw text]"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AI CASE ASSESSMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Case Strength: [STRONG / MODERATE / WEAK]
+
+Legal Basis:
+[California statute that applies - e.g., Cal. Civil Code § 1950.7]
+
+Summary:
+[1-2 sentence AI assessment of their legal position]
+
+Why This Rating:
+[AI's reasoning for the strength rating]
+
+Recommended Next Steps (what we told the user):
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WHAT THE USER KNOWS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The user has already received:
+✓ AI analysis of their case (they know their case strength)
+✓ Step-by-step action plan
+✓ Draft letters/emails to send to their landlord
+✓ Information about California tenant law
+
+They're expecting:
+→ A call or email from you within 24 hours
+→ A free 15-minute consultation to discuss their case
+→ Honest assessment of whether they should pursue this
+
+They opted for: [Free Consult / Paid Consult / Referral Only]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+YOUR NEXT STEPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Contact the user within 24 hours (email or phone)
+2. Provide the free 15-minute consultation
+3. Assess whether this is a case you want to take on
+4. Let me know the outcome (did they convert to a paying client?)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEAL TERMS (REMINDER)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[OPTION A: Revenue Share]
+- You pay 20% of fees collected if this converts to a case
+- Example: $500 case = you pay me $100
+
+[OPTION B: Flat Fee Per Lead]
+- You pay $30 for this lead (whether or not it converts)
+- Due at end of week
+
+[OPTION C: Test Batch - FREE]
+- First 5 leads are FREE (this is lead #[X] of 5)
+- After 5 leads, we discuss ongoing terms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTIONS?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Reply to this email or call me at [Your Phone Number].
+
+Thanks,
+[Your Name]
+TenantShield
+[Your Email]
+[Your Phone]
+
+---
+
+========================================
+SAMPLE POPULATED EMAIL
+========================================
+
+From: Alex Chen, TenantShield
+To: maria@bakersfieldtenantadvocates.com
+Subject: New Tenant Lead (Pre-Screened): Sierra Martinez – Security Deposit Dispute
+
+---
+
+Hi Maria,
+
+New lead for you from TenantShield. Here's what you need to know:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEAD DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Name: Sierra Martinez
+Phone: (661) 555-1234
+Email: sierra.martinez@gmail.com
+Location: Bakersfield, CA
+
+Case Type: Security Deposit Dispute
+
+Situation (in their words):
+"My landlord kept my $1,200 deposit 3 weeks after I moved out. She said the apartment had damage but won't tell me what. I have photos showing it was clean when I left. She's ignoring my texts."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AI CASE ASSESSMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Case Strength: STRONG
+
+Legal Basis:
+Cal. Civil Code § 1950.7 (Security Deposits—Landlord Obligations)
+
+Summary:
+Landlord failed to return deposit or provide itemization within 21-day legal deadline. Tenant has photographic evidence of move-out condition.
+
+Why This Rating:
+California law requires landlords to return deposits WITH itemized deductions within 21 days of move-out. Landlord missed deadline (3 weeks = 21+ days) and provided no itemization. Tenant has photos = evidence of condition. Likely qualifies for statutory penalties (2x deposit = $2,400 potential recovery).
+
+Recommended Next Steps (what we told the user):
+1. Send demand letter via certified mail (we provided template)
+2. File small claims case at Kern County Superior Court
+3. Gather evidence (photos, lease, texts, certified mail receipt)
+4. Prepare for small claims hearing
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WHAT THE USER KNOWS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The user has already received:
+✓ AI analysis of their case (they know their case is STRONG)
+✓ Step-by-step action plan
+✓ Draft demand letter to send to landlord
+✓ Information about Cal. Civil Code § 1950.7
+
+They're expecting:
+→ A call or email from you within 24 hours
+→ A free 15-minute consultation to discuss their case
+→ Honest assessment of whether they should file small claims
+
+They opted for: Free Consult
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+YOUR NEXT STEPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Contact Sierra within 24 hours (email or phone)
+2. Provide the free 15-minute consultation
+3. Assess whether this is a case you want to assist with
+4. Let me know the outcome (did they hire you for small claims prep?)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEAL TERMS (REMINDER)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Test Batch - FREE
+- First 5 leads are FREE (this is lead #2 of 5)
+- After 5 leads, we discuss ongoing terms (likely $30/lead or 20% rev share)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTIONS?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Reply to this email or call me at (555) 123-4567.
+
+Thanks,
+Alex Chen
+TenantShield
+alex@tenantshield.com
+(555) 123-4567
+
+---
+
+========================================
+TRACKING TEMPLATE (FOR YOUR RECORDS)
+========================================
+
+Use this to track lead outcomes:
+
+Lead ID: [Auto-generated or manual ID]
+User Name: [Name]
+Case Type: [Type]
+Case Strength: [STRONG/MODERATE/WEAK]
+Date Sent to Provider: [Date]
+Provider Name: [Provider]
+Provider Response: [Contacted user / Did not contact / No response]
+Outcome: [Converted to client / Free consult only / User no-show / User declined]
+Revenue Generated: $[Amount if converted]
+Your Cut: $[Your commission if applicable]
+
+---
+
+Example:
+
+Lead ID: TS-001
+User Name: Sierra Martinez
+Case Type: Security Deposit
+Case Strength: STRONG
+Date Sent: 2026-01-14
+Provider: Maria Lopez (Bakersfield Tenant Advocates)
+Provider Response: Contacted within 4 hours
+Outcome: Converted to small claims prep client ($250 flat fee)
+Revenue Generated: $250
+Your Cut: $50 (20% rev share)
+
+========================================
+PROVIDER FOLLOW-UP SEQUENCE
+========================================
+
+If provider doesn't respond within 24 hours:
+
+FOLLOW-UP 1 (24 hours later):
+---
+Subject: Re: New Tenant Lead - Sierra Martinez
+
+Hi Maria,
+
+Just checking in—did you get a chance to contact Sierra Martinez about her security deposit case?
+
+The user is expecting a response within 24 hours (per our agreement), so if you can't take this one, let me know ASAP and I'll send to another provider.
+
+Thanks,
+Alex
+---
+
+FOLLOW-UP 2 (48 hours later):
+---
+Subject: Re: New Tenant Lead - Sierra Martinez [ACTION REQUIRED]
+
+Hi Maria,
+
+I haven't heard back about Sierra Martinez's case. I'm assuming you're too busy to take this lead, so I'm sending it to another provider.
+
+If you want to pause incoming leads for a bit, just let me know—no problem.
+
+Thanks,
+Alex
+---
+
+========================================
+QUALITY CHECKLIST
+========================================
+
+Before sending provider handoff, verify:
+□ User's contact info is complete and accurate
+□ Case summary is clear and concise
+□ AI assessment is included
+□ Case strength is labeled (STRONG/MODERATE/WEAK)
+□ Provider knows what user has already received
+□ Deal terms are clearly stated
+□ Your contact info is included
+□ No typos or formatting errors
+
+========================================

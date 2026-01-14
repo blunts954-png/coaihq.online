@@ -1,0 +1,304 @@
+TENANTSHIELD - USER RESPONSE EMAIL
+Sent Immediately After Form Submission
+
+========================================
+EMAIL 1: IMMEDIATE AUTO-REPLY
+========================================
+
+Subject: Your Case Analysis is Ready - TenantShield
+
+---
+
+Hi [FIRST_NAME],
+
+Thank you for submitting your landlord-tenant issue to TenantShield. I've analyzed your situation and have your results ready.
+
+Your case details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[INSERT AI CASE ANALYSIS HERE - Full output from tenant-case-analyzer.txt]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NEXT STEPS - CHOOSE YOUR PATH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[IF STRONG OR MODERATE CASE:]
+
+OPTION 1 (FREE - RECOMMENDED):
+Connect with a local Bakersfield tenant advocate for a free 15-minute consultation.
+
+They'll review your specific situation and help you:
+✓ Confirm your legal strategy
+✓ Identify any gaps in your evidence
+✓ Walk you through small claims court (if needed)
+
+📅 Schedule Your Free Consult:
+[CALENDLY_LINK]
+
+---
+
+OPTION 2 ($29 - PREMIUM):
+Get the Premium Letter Package
+
+Everything you need to take action with confidence:
+✓ All letters professionally formatted (ready to print)
+✓ Certified mail templates with tracking instructions
+✓ Notary-ready affidavit templates
+✓ Small claims court filing checklist
+✓ Evidence organization guide
+
+This package ensures you don't miss any procedural steps and gives you confidence that your documents meet legal standards.
+
+💳 Get Premium Letters Package:
+[STRIPE_LINK_PREMIUM_LETTERS]
+
+---
+
+OPTION 3 ($15):
+10-Minute Paid Paralegal Consultation
+
+Get immediate answers to your specific questions from a California-licensed paralegal.
+
+Best for: Quick questions about your situation, reviewing specific lease clauses, understanding your exact rights.
+
+💳 Book Paid Consult:
+[STRIPE_LINK_PAID_CONSULT]
+
+---
+
+[IF WEAK CASE:]
+
+RECOMMENDED NEXT STEP (FREE):
+
+Based on my analysis, your case may be challenging. However, legal situations can be nuanced—sometimes small details make a big difference.
+
+I recommend connecting with a local tenant advocate for a free second opinion. They may spot something in your situation that strengthens your position.
+
+📅 Schedule Free Consultation:
+[CALENDLY_LINK]
+
+Before spending money on legal action, it's worth getting professional confirmation of your position.
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUESTIONS?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Just reply to this email and I'll do my best to help.
+
+Remember: This is educational analysis, not legal advice. Always consult a licensed California attorney for advice specific to your situation.
+
+Good luck with your case,
+
+The TenantShield Team
+Bakersfield, CA
+hello@tenantshield.com
+
+---
+
+P.S. — Most people who take action within 24 hours report feeling way less stressed. Don't let this drag on—pick an option above and take the next step today.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT DISCLAIMER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TenantShield provides educational information about California tenant rights. This is NOT legal advice and does not create an attorney-client relationship. For legal advice specific to your situation, consult a licensed California attorney.
+
+========================================
+EMAIL 2: FOLLOW-UP (2 DAYS LATER - NO ACTION)
+========================================
+
+Subject: Quick check-in about your landlord issue
+
+---
+
+Hi [FIRST_NAME],
+
+I wanted to check in about your [CASE_TYPE] situation.
+
+Have you had a chance to:
+✓ Send the demand letter to your landlord?
+✓ Schedule a consultation with a local advocate?
+✓ File your small claims case?
+
+I know it's easy to put this off—dealing with landlord issues is stressful and you're probably busy.
+
+But here's the thing: The longer you wait, the harder it gets.
+
+If you're feeling overwhelmed, the free 15-minute consultation can help you figure out exactly what to do next. No obligation, no pressure—just clarity.
+
+📅 Schedule Your Free Consult:
+[CALENDLY_LINK]
+
+OR
+
+If you just want the documents ready to go, grab the Premium Letter Package and take action today:
+[STRIPE_LINK_PREMIUM_LETTERS]
+
+You've got this. Just take the first step.
+
+Best,
+TenantShield Team
+
+---
+
+P.S. — If you've already resolved this or decided not to pursue it, no worries. Just hit "unsubscribe" below and I'll stop emailing.
+
+========================================
+EMAIL 3: FINAL FOLLOW-UP (7 DAYS LATER)
+========================================
+
+Subject: Last check-in about your [CASE_TYPE]
+
+---
+
+Hi [FIRST_NAME],
+
+This is my last email—I don't want to spam you.
+
+I know dealing with [CASE_TYPE] issues is frustrating, and sometimes it's easier to just let things go.
+
+But if you're still dealing with this, here's what you need to know:
+
+⏰ TIME LIMITS MATTER:
+- Security deposit claims: You have up to 4 years, but evidence gets stale
+- Eviction defense: You have 5 DAYS to respond to an unlawful detainer
+- Habitability issues: Delays weaken your case
+
+If you don't act now, you might lose your rights.
+
+The free consultation is still available:
+📅 [CALENDLY_LINK]
+
+Or if you're ready to take action on your own:
+💳 [STRIPE_LINK_PREMIUM_LETTERS]
+
+If you've already resolved this—awesome. I hope everything worked out in your favor.
+
+Good luck,
+TenantShield Team
+
+---
+
+This is the last email you'll receive from us about this case. If you want help in the future, you can always come back to TenantShield.com.
+
+========================================
+EMAIL 4: POST-PURCHASE (PREMIUM LETTERS)
+========================================
+
+Subject: Your Premium Letter Package is Ready! 📄
+
+---
+
+Hi [FIRST_NAME],
+
+Thanks for purchasing the Premium Letter Package!
+
+You now have access to:
+✓ Professionally formatted demand letters
+✓ Certified mail templates
+✓ Notary-ready affidavits
+✓ Small claims filing checklist
+✓ Evidence organization guide
+
+📥 DOWNLOAD YOUR PACKAGE:
+[DOWNLOAD_LINK]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WHAT TO DO NEXT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Download and review all documents
+2. Fill in the blanks with your specific information
+3. Print the demand letter and send via certified mail
+4. Keep copies of EVERYTHING for your records
+5. Follow the checklist to prepare for small claims (if needed)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STILL WANT HELP?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you want a professional to review your documents before sending:
+
+📅 Schedule a free consultation with a local tenant advocate:
+[CALENDLY_LINK]
+
+OR
+
+💳 Book a 10-minute paid paralegal review ($15):
+[STRIPE_LINK_PAID_CONSULT]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Questions? Just reply to this email.
+
+Good luck with your case!
+
+TenantShield Team
+
+========================================
+EMAIL 5: POST-CONSULTATION BOOKING
+========================================
+
+Subject: Your consultation is confirmed! 📅
+
+---
+
+Hi [FIRST_NAME],
+
+Great news—your free consultation with [ADVOCATE_NAME] is confirmed!
+
+📅 Date & Time: [DATE_TIME]
+📞 How to connect: [PHONE/ZOOM_LINK]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BEFORE YOUR CONSULTATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+To make the most of your 15 minutes, have these ready:
+✓ Your lease agreement
+✓ Any emails or texts with your landlord
+✓ Photos (if relevant to your case)
+✓ Move-out inspection report (if you have one)
+✓ Any other relevant documents
+
+Write down your top 3 questions ahead of time so you don't forget to ask.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NEED TO RESCHEDULE?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Click here: [CALENDLY_RESCHEDULE_LINK]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+See you soon!
+
+TenantShield Team
+
+========================================
+ZAPIER AUTOMATION LOGIC
+========================================
+
+Trigger: Form submission
+
+Actions:
+1. Send EMAIL 1 (immediate auto-reply with AI analysis)
+2. Wait 2 days → IF no purchase or booking → Send EMAIL 2
+3. Wait 5 more days (7 total) → IF no purchase or booking → Send EMAIL 3
+4. IF purchase Premium Letters → Send EMAIL 4 immediately
+5. IF booking consultation → Send EMAIL 5 immediately
+
+Variables to populate:
+- [FIRST_NAME]: From form submission
+- [CASE_TYPE]: Extracted from AI analysis (security deposit, eviction, etc.)
+- [AI CASE ANALYSIS]: Full output from Claude API
+- [CALENDLY_LINK]: Your Calendly scheduling link
+- [STRIPE_LINK_PREMIUM_LETTERS]: Stripe payment link ($29)
+- [STRIPE_LINK_PAID_CONSULT]: Stripe payment link ($15)
+- [DOWNLOAD_LINK]: Google Drive or Dropbox link to Premium Letter Package
+- [ADVOCATE_NAME]: Name of paralegal/advocate assigned
+- [DATE_TIME]: From Calendly booking confirmation
+
+========================================

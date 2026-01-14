@@ -1,0 +1,362 @@
+TENANTSHIELD BAKERSFIELD - LANDING PAGE COPY
+Complete Homepage Content
+
+========================================
+NAVIGATION
+========================================
+
+Logo: TenantShield [with simple shield icon]
+
+Nav Links:
+- Home
+- How It Works
+- FAQ
+- Contact
+
+CTA Button (top right): Analyze My Case →
+
+========================================
+HERO SECTION
+========================================
+
+HEADLINE (H1):
+Stuck in a Landlord Fight?
+Get a Clear Plan in 5 Minutes.
+
+SUBHEADLINE (H2):
+AI-powered analysis + connection to Bakersfield's top tenant advocates.
+No lawyer fees. No guessing. Just clarity.
+
+BENEFIT BULLETS:
+✓ Instant situation assessment (do you have a real case?)
+✓ Step-by-step action plan for THIS WEEK (not vague advice)
+✓ AI-drafted emails & letters ready to send TODAY
+✓ Direct intro to a local paralegal (free 15-min consult, no obligation)
+✓ Know YOUR rights under California law (specific to YOUR situation)
+
+CTA BUTTON (PRIMARY):
+[ANALYZE MY CASE →]
+
+TRUST BADGES (optional):
+"Based on California Civil Code § 1940-1954.1"
+"Trusted by 100+ Bakersfield residents" [update number as you grow]
+
+========================================
+INTAKE FORM (EMBEDDED IN HERO)
+========================================
+
+Form Headline:
+Describe Your Situation (2 Minutes)
+
+Form Fields:
+
+1. First Name *
+   [Text input]
+
+2. Last Name *
+   [Text input]
+
+3. Email Address *
+   [Email input]
+
+4. Phone Number *
+   [Phone input]
+
+5. What type of issue are you dealing with? *
+   [Dropdown]
+   - Security deposit dispute
+   - Eviction or eviction notice
+   - Uninhabitable conditions (mold, pests, broken appliances)
+   - Illegal rent increase
+   - Landlord harassment or retaliation
+   - Privacy violations (landlord entering without notice)
+   - Other
+
+6. Tell us what happened (be specific): *
+   [Text area - 5 rows]
+   Placeholder: "Example: My landlord kept my $1,200 deposit 3 weeks after I moved out. She said there was damage but won't tell me what. I have photos showing the apartment was clean."
+
+7. How long ago did this happen? *
+   [Dropdown]
+   - Within the last week
+   - 1-4 weeks ago
+   - 1-3 months ago
+   - 3-6 months ago
+   - More than 6 months ago
+
+8. Have you already contacted a lawyer? *
+   [Radio buttons]
+   - No
+   - Yes, but they didn't help
+   - Yes, I'm working with one now
+
+9. Consent *
+   [Checkbox]
+   ☐ I want AI analysis of my case + an intro to a local tenant advocate. I understand this is educational information, not legal advice.
+
+SUBMIT BUTTON:
+[GET MY FREE ANALYSIS →]
+
+Privacy note:
+"We never share your information. See our privacy policy."
+
+========================================
+HOW IT WORKS SECTION
+========================================
+
+Section Headline:
+How TenantShield Works
+
+STEP 1:
+Icon: 📝 [Form/document icon]
+Headline: Describe Your Situation (2 min)
+Body: Tell us what happened with your landlord. Be honest and specific—we need details to give you accurate analysis.
+
+STEP 2:
+Icon: 🤖 [AI/brain icon]
+Headline: AI Analyzes Your Case (instant)
+Body: Our AI applies California tenant law to your situation. You'll get a strength rating (STRONG, MODERATE, or WEAK) based on actual statutes—not guesses.
+
+STEP 3:
+Icon: 📧 [Email icon]
+Headline: Get Your Action Plan (emailed in 2 min)
+Body: Receive a detailed breakdown of your legal position, 3-5 specific steps to take this week, and copy-paste emails to send your landlord today.
+
+STEP 4:
+Icon: 👤 [Person/handshake icon]
+Headline: Connect with a Local Advocate (free consult)
+Body: We'll introduce you to a licensed paralegal or tenant advocate in Bakersfield. They'll call within 24 hours. Free 15-minute consultation. No obligation.
+
+CTA:
+[START YOUR ANALYSIS →]
+
+========================================
+BENEFITS/FEATURES SECTION
+========================================
+
+Section Headline:
+Why Bakersfield Tenants Choose TenantShield
+
+BENEFIT 1:
+Headline: Honest Assessment (Not False Hope)
+Body: If you don't have a strong case, we'll tell you. No point wasting your time or money on a losing battle. We'd rather be honest than take your money.
+
+BENEFIT 2:
+Headline: California-Specific (Not Generic Advice)
+Body: We analyze your case using California Civil Code—not generic internet advice from other states. Every recommendation is based on Cal. law §§ 1940-1954.1.
+
+BENEFIT 3:
+Headline: Actionable Steps (Not Theory)
+Body: You won't get vague advice like "talk to a lawyer." You'll get: "Send this email today. File this form tomorrow. Gather these documents by Friday."
+
+BENEFIT 4:
+Headline: Free to Start (Pay Only If It Helps)
+Body: Case analysis is FREE. Connecting with an advocate is FREE. You only pay if you want premium letter templates or extended paralegal time.
+
+BENEFIT 5:
+Headline: Fast (Not Weeks of Waiting)
+Body: Legal aid hotlines have 45-minute hold times and 3-week callbacks. We give you answers in 5 minutes. Take action TODAY, not next month.
+
+========================================
+SOCIAL PROOF SECTION
+========================================
+
+Section Headline:
+What Bakersfield Residents Are Saying
+
+TESTIMONIAL 1:
+"I thought I had no options. TenantShield showed me I had a STRONG case under California law. I sent the demand letter they wrote for me, and my landlord returned my $900 deposit within 3 days. I didn't even have to go to court."
+— Jessica M., Southwest Bakersfield
+
+TESTIMONIAL 2:
+"I was about to give up on my security deposit. TenantShield's AI analyzed my situation in 2 minutes and told me exactly what to do. The free consultation with a local paralegal was super helpful. Totally worth it."
+— David R., East Bakersfield
+
+TESTIMONIAL 3:
+"I got an eviction notice and panicked. TenantShield told me it was probably illegal retaliation (I had complained about mold). They connected me with a tenant advocate who helped me respond. My landlord backed off. I'm still in my apartment."
+— Maria S., Bakersfield
+
+[Note: These are example testimonials. Replace with real ones as you get users.]
+
+========================================
+FAQ SECTION
+========================================
+
+Section Headline:
+Frequently Asked Questions
+
+Q1: Is this legal advice?
+A: No. TenantShield provides educational analysis based on California tenant law. This is NOT legal advice and does not create an attorney-client relationship. For legal advice specific to your situation, consult a licensed California attorney.
+
+Q2: How long does the analysis take?
+A: 2-5 minutes. You'll receive your case analysis via email almost immediately after submitting the form.
+
+Q3: How much does it cost?
+A: Case analysis is FREE. Connecting with a local advocate for a free 15-minute consultation is FREE. Optional upgrades:
+   - Premium Letter Package (professionally formatted letters): $29
+   - Extended paralegal consultation (10 minutes): $15
+
+Q4: Who are the advocates you connect me with?
+A: Licensed paralegals and tenant rights advocates based in Bakersfield. They specialize in California tenant law. You're under no obligation to hire them—the initial 15-minute consult is free.
+
+Q5: What if my case is weak?
+A: We'll tell you honestly. If you don't have a strong legal position, we won't encourage you to waste time or money pursuing it. However, we'll still connect you with an advocate for a second opinion—sometimes small details matter.
+
+Q6: Can you represent me in court?
+A: No. TenantShield is an educational platform, not a law firm. However, the advocates we connect you with may be able to help you prepare for small claims court or refer you to an attorney if needed.
+
+Q7: Is my information private?
+A: Yes. We never share your information with anyone except the advocate you're connected with (and only with your consent). See our privacy policy for details.
+
+Q8: What types of cases do you handle?
+A: We specialize in common California tenant issues:
+   - Security deposit disputes
+   - Eviction defense
+   - Uninhabitable conditions (mold, pests, broken appliances)
+   - Illegal rent increases
+   - Retaliation
+   - Privacy violations
+
+   If your issue is complex (e.g., discrimination, domestic violence), we'll refer you to specialized resources.
+
+Q9: How do I know if I should trust this AI analysis?
+A: Our AI is based on California Civil Code and case law. However, AI can't replace a lawyer. That's why we connect you with a real paralegal or advocate for a free consultation—they'll confirm whether the AI analysis is accurate for your specific situation.
+
+Q10: What if I've already talked to a lawyer and they said I have no case?
+A: You may not have a case, or you may have talked to the wrong lawyer. Tenant law is very specific, and not all attorneys specialize in it. Get a second opinion from a tenant rights advocate (free consultation). If they agree you have no case, you'll know for sure.
+
+========================================
+CALL-TO-ACTION SECTION (BOTTOM)
+========================================
+
+Section Headline:
+Ready to Find Out If You Have a Case?
+
+Subheadline:
+It takes 2 minutes. You have nothing to lose.
+
+CTA BUTTON (LARGE):
+[ANALYZE MY CASE NOW →]
+
+Below button:
+Free analysis. No credit card required. Results in 5 minutes.
+
+========================================
+FOOTER
+========================================
+
+Column 1: TENANTSHIELD
+- About
+- How It Works
+- Privacy Policy
+- Terms of Service
+- Contact
+
+Column 2: RESOURCES
+- California Tenant Rights (link to state resources)
+- Small Claims Court Info (link to Kern County court)
+- Legal Aid Organizations (link to local legal aid)
+
+Column 3: CONTACT
+- Email: hello@tenantshield.com
+- Phone: (661) XXX-XXXX [add your number]
+- Based in Bakersfield, CA
+
+Column 4: FOLLOW US
+- Facebook
+- Twitter (X)
+- Instagram
+
+Legal Disclaimer (small text):
+TenantShield provides educational information about California tenant rights. This is NOT legal advice and does not create an attorney-client relationship. For legal advice specific to your situation, consult a licensed California attorney.
+
+© 2026 TenantShield. All rights reserved.
+
+========================================
+DESIGN NOTES FOR FRAMER
+========================================
+
+COLOR PALETTE (suggested):
+- Primary: #2563EB (blue - trust, authority)
+- Secondary: #10B981 (green - success, action)
+- Accent: #F59E0B (orange - urgency)
+- Background: #F9FAFB (light gray)
+- Text: #111827 (dark gray/black)
+
+FONTS:
+- Headline: Inter Bold or Poppins Bold (modern, readable)
+- Body: Inter Regular or Open Sans (clean, professional)
+
+LAYOUT:
+- Hero section: Full-width, centered, with form embedded or as sticky sidebar
+- Benefits: 3-column grid (desktop), 1-column (mobile)
+- How It Works: 4-column grid with icons (desktop), 1-column (mobile)
+- FAQ: Accordion-style (expandable questions)
+
+IMAGERY:
+- Hero image: Photo of Bakersfield skyline or happy tenant (stock photo)
+- Icons: Simple, flat design (use Heroicons or Font Awesome)
+- Avoid: Cheesy stock photos of people pointing at laptops
+
+MOBILE OPTIMIZATION:
+- Form should be easy to fill on mobile (large input fields, no tiny text)
+- CTA buttons should be thumb-friendly (min 44px height)
+- Text should be legible without zooming (min 16px font size)
+
+========================================
+CONVERSION OPTIMIZATION TIPS
+========================================
+
+1. HEADLINE TEST:
+   - Version A: "Stuck in a Landlord Fight? Get a Clear Plan in 5 Minutes."
+   - Version B: "Landlord Won't Return Your Deposit? Find Out If You Can Sue (Free Analysis)"
+   → Test both, see which converts better
+
+2. FORM PLACEMENT:
+   - Version A: Embedded in hero section (visible immediately)
+   - Version B: Sticky sidebar (always visible as user scrolls)
+   → Test both
+
+3. CTA BUTTON COPY:
+   - Version A: "Analyze My Case"
+   - Version B: "Get My Free Analysis"
+   - Version C: "See If I Have a Case"
+   → Test all three
+
+4. TRUST SIGNALS:
+   - Add "As seen on [local news outlet]" if you get press
+   - Add "100+ cases analyzed" as social proof (update regularly)
+   - Add testimonials ASAP (even if just first names + initials)
+
+5. URGENCY (use sparingly):
+   - "Security deposit claims have time limits—find out if you can still file"
+   - "Eviction defense: You have 5 days to respond. Get help NOW."
+
+========================================
+SEO KEYWORDS TO TARGET
+========================================
+
+Primary:
+- "landlord tenant dispute Bakersfield"
+- "security deposit not returned Bakersfield"
+- "eviction defense Bakersfield"
+- "tenant rights Bakersfield"
+
+Secondary:
+- "how to fight eviction California"
+- "landlord won't return deposit California"
+- "small claims court Bakersfield landlord"
+- "Bakersfield tenant lawyer"
+
+Long-tail:
+- "landlord kept security deposit no itemization"
+- "can I sue my landlord for not returning deposit"
+- "eviction notice without cause California"
+- "how to sue landlord small claims Bakersfield"
+
+On-page SEO:
+- Use keywords in H1, H2, and body copy naturally
+- Meta title: "Landlord-Tenant Disputes Bakersfield | Free Case Analysis | TenantShield"
+- Meta description: "Stuck in a landlord dispute? Get free AI-powered case analysis + connect with Bakersfield tenant advocates. Know your California rights in 5 minutes."
+
+========================================
